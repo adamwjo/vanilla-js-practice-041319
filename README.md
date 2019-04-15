@@ -7,3 +7,5 @@
 
 3.) Next I set up script in the package.json file, that watches a sass file, and compiles the sass into a css file. 
     - "node-sass -w scss/ -o css/" <-- this syntax "watches a sass file for changes and then outputs the compiled sass into a css file.
+
+4.)I set up an index.html file, and insert links to my compliled css as well as some other styling and meta tags for cross-device compatibility" 
