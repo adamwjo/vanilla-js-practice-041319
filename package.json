@@ -1,0 +1,23 @@
+{
+  "name": "vanilla-js-practice-041319",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrpits.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamwjo/vanilla-js-practice-041319.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamwjo/vanilla-js-practice-041319/issues"
+  },
+  "homepage": "https://github.com/adamwjo/vanilla-js-practice-041319#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
